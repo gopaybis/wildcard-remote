@@ -47,6 +47,9 @@ const cf = new CloudflareApi({
   appDomain: "apps.domain.com", // Subdomain wildcard
 });
 ```
+## Cara Deploy
+- edit yang wajibnya
+- salin dan tempelin worker.js nya di cloudflare workers
 
 ## Cara Menggunakan
 
