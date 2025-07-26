@@ -30,9 +30,7 @@ Sistem ini memungkinkan pengguna mendaftarkan subdomain dinamis (seperti `tokope
 Di bagian HTML (`htmlPage`), ubah:
 ```js
 const full = wildcard + ".apps.domain.com";
-
-
----
+```
 Ganti apps.domain.com sesuai wildcard subdomain kamu.
 
 ### 2. **Konfigurasi Cloudflare API**
