@@ -51,11 +51,11 @@ const cf = new CloudflareApi({
 ## Cara Menggunakan
 
 1. Buka URL Worker (contoh: `https://wildcard-subdomain.kamu.workers.dev`)
-2. Masukkan subdomain yang diinginkan (contoh: `tokopedia`)
+2. Masukkan subdomain yang diinginkan (contoh: `tokopedia.com`)
 3. Klik tombol **🧩 Daftarkan**
 4. Jika sukses, domain akan tersedia di:
    ```
-   https://tokopedia.apps.domain.com
+   https://tokopedia.com.apps.domain.com
    ```
 
 ---
