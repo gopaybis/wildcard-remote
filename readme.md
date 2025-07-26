@@ -22,6 +22,7 @@ Sistem ini memungkinkan pengguna mendaftarkan subdomain dinamis (seperti `tokope
 
 ---
 
+
 ## 🔧 Bagian Kode yang Harus Diubah
 
 ### 1. **Format Subdomain**
@@ -29,7 +30,7 @@ Sistem ini memungkinkan pengguna mendaftarkan subdomain dinamis (seperti `tokope
 Di bagian HTML (`htmlPage`), ubah:
 ```js
 const full = wildcard + ".apps.domain.com";
-```js
+
 
 ---
 Ganti apps.domain.com sesuai wildcard subdomain kamu.
